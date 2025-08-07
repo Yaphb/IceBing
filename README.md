@@ -21,8 +21,8 @@ My goal is to apply practical knowledge in real-world IT projects, contribute to
 
 ### Programming & Development
 - Java, Python, PHP, JavaScript
-- HTML5, CSS3, Bootstrap
-- MySQL, Laravel (basic)
+- HTML5, CSS3, Bootstrap, ASP.NET (.NET 9.0)
+- MySQL (basic)
 - Git & GitHub
 
 ### Networking
@@ -30,9 +30,9 @@ My goal is to apply practical knowledge in real-world IT projects, contribute to
 - Subnetting, routing basics, TCP/IP
 
 ### Tools & Platforms
-- VS Code, NetBeans, Figma
+- VS Code, VS Community 2022, NetBeans, Figma
 - Cisco Packet Tracer
-- Linux CLI (basic)
+- Linux CLI, Windows Command Prompt, Windows Powershell (Intermediate)
 
 ---
 
@@ -53,11 +53,11 @@ My goal is to apply practical knowledge in real-world IT projects, contribute to
 
 ## 📁 Notable Projects
 
-### 🔧 Mini Project – [Insert Project Name]
+### 🔧 Mini Project – [Coming Soon]
 > A group-based system development project focused on delivering a functional software/web-based solution using PHP and MySQL. This project showcases team collaboration, SDLC application, and deployment-ready coding.
 
-### 🌐 Web-Based Integrated System
-> Developed a responsive web application using HTML, CSS, and PHP as part of the coursework. Implemented form handling, validation, and CRUD operations connected to a MySQL database.
+### 🌐 Web-Based Integrated System / Web and Mobile System
+> Developed a responsive web application using HTML, CSS, and PHP as part of the coursework. Implemented form handling, validation, and CRUD operations connected to a MySQL database. Alternatively, using ASP.NET MVC core structure if require.
 
 ---
 
@@ -85,6 +85,7 @@ All credentials are verifiable via the Cisco Networking Academy portal.
 - Build a fully responsive cloud-hosted web app
 - Contribute to open-source security projects
 - Complete industrial training with impact
+- Create and model 3D objects in Blender 3D
 
 ---
 
